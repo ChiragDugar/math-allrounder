@@ -1,0 +1,12 @@
+{
+  "name": "math-allrounder",
+  "version": "1.0.0",
+  "description": "A simple package for carrying out all mathematical complex operations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chirag Dugar",
+  "license": "ISC",
+  "type": "module"
+}
